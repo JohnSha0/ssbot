@@ -1,0 +1,1 @@
+[DEPLOY](https://github.com/JohnSha0/ssbot)
